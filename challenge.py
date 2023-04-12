@@ -42,3 +42,12 @@ if __name__ == '__main__':
     for i in range(0,n):
         print(i*i)
         
+#(4)Sample Input 0
+#3
+#Sample Output 0
+#123
+
+if __name__ == '__main__':
+    n = int(input())
+    for i in range(1,4):
+        print(i,end="")
