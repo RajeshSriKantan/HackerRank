@@ -36,3 +36,9 @@ if __name__ == '__main__':
     while(i<n):
         print(i*i)
         i+=1
+   #anothermethod
+if __name__ == '__main__':
+    n = int(input())
+    for i in range(0,n):
+        print(i*i)
+        
